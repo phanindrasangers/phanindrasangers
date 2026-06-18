@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:06b6d4&height=200&section=header&text=Phanindra%20Sangers&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Kubestronaut&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:06b6d4&height=160&section=header" width="100%"/>
+
+# Hi, I'm Phanindra Sangers 👋
+
+### ☁️ Cloud & DevOps Engineer &nbsp;|&nbsp; ☸️ Kubestronaut
 
 <a href="https://github.com/phanindrasangers">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=06B6D4&center=true&vCenter=true&width=620&lines=Cloud+infrastructure+%26+CI%2FCD+at+scale;Kubernetes+everywhere+%E2%9B%B5;Automating+all+the+things+with+IaC;Currently+leveling+up+in+Go" alt="Typing SVG" />
