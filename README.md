@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋, My Name is Phanindra Sangers
+Hello, I'm Phanindra Sangers a Cloud & DevOps Engineer, passionate about crafting robust cloud infrastructure and optimising CICD and K8s Deployments.
 
-<!--
-**phanindrasangers/phanindrasangers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Python , DevOps , Cloud Computing AWS && AZURE , Kubernetes , Docker , Terraform , Hashicorp vault , Hashicorp Consul 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on this page. 
+- 🌱 I have completed CKS,CKA,CKAD
+-  i want to Clear KCNA , KCSA to become kubestronaut
+-  In future i want also to complete Prometheus Certification
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to learn GO
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/phanindra-sangers)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/phanindra-sangers-0225a516a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/phanindra_sangers//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](phanindra-sangers.vercel.app)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@phanindra.sangers)  
