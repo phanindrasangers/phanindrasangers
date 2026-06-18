@@ -5,7 +5,7 @@ Skills: Python , DevOps , Cloud Computing AWS && AZURE , Kubernetes , Docker , T
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I have completed CKS,CKA,CKAD
--  i want to Clear KCNA , KCSA to become kubestronaut
+-  Im a Kubestronaut
 -  In future i want also to complete Prometheus Certification
 
 - 👯 I’m looking to learn GO
